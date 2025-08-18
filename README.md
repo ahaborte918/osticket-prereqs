@@ -16,11 +16,10 @@ In this project we will cover the prerequisites and step-by-step installation of
 - Windows 11</b> (24H2)
 
 <h2>List of Prerequisites</h2>
-
-- Enable Internet Information Services (IIS) w/ CGI, then install PHP Manager, Rewrite Module, and extract PHP 7.3.8 to C:\PHP
-- Install dependencies including the C++ Redistributable and MySQL 5.5.62, and Setup Login Credentials
-- Set up osTicket in IIS by placing the "upload" folder in C:\inetpub\wwwroot, renaming it to "osTicket", enabling required PHP extensions, and configuring permissions
-- Use a browser to complete the osTicket setup, create the database with HeidiSQL, and finalize installation with the provided MySQL credentials
+- STEP 1 - Enable Internet Information Services (IIS) w/ CGI, then install PHP Manager, Rewrite Module, and extract PHP 7.3.8 to C:\PHP.
+- STEP 2 - Install dependencies including the C++ Redistributable and MySQL 5.5.62, and Setup Login Credentials.
+- STEP 3 - Set up osTicket in IIS by placing the "upload" folder in C:\inetpub\wwwroot, renaming it to "osTicket", enabling required PHP extensions, and configuring permissions.
+- STEP 4 - Use a browser to complete the osTicket setup, create the database with HeidiSQL, and finalize installation with the provided MySQL credentials.
 
 <h2>Installation Steps</h2>
 
@@ -46,3 +45,5 @@ Open a web browser and go to http://localhost/osTicket to launch the osTicket se
 <img width="1325" height="815" alt="osTick Project 4" src="https://github.com/user-attachments/assets/a3b12291-a017-4ede-a813-a5775b513c20" />
 </p>
 <br />
+<h2>Final Thoughts</h2>
+This project provided me practical experience in deploying and configuring an open-source ticketing system while strengthening my skills in server administration and web application setup. It also highlighted the importance of scalable support solutions in managing real-world IT service requests.
