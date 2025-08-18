@@ -45,5 +45,6 @@ Open a web browser and go to http://localhost/osTicket to launch the osTicket se
 </p>
 <img width="1325" height="815" alt="osTick Project 4" src="https://github.com/user-attachments/assets/a3b12291-a017-4ede-a813-a5775b513c20" />
 </p>
+</p>
 <h2>Final Thoughts</h2>
 This project provided me practical experience in deploying and configuring an open-source ticketing system while strengthening my skills in server administration and web application setup. It also highlighted the importance of scalable support solutions in managing real-world IT service requests.
