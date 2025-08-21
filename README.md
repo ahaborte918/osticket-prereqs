@@ -15,7 +15,7 @@ In this project we will cover the prerequisites and step-by-step installation of
 
 - Windows 11</b> (24H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Steps Included</h2>
 
 - STEP 1 - Enable Internet Information Services (IIS) w/ CGI, then install PHP Manager, Rewrite Module, and extract PHP 7.3.8 to C:\PHP.
 - STEP 2 - Install dependencies including the C++ Redistributable and MySQL 5.5.62, and Setup Login Credentials.
